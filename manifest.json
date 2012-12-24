@@ -16,6 +16,6 @@
    "options_page": "options.html",
    "permissions": [ "http://*.reddit.com/", "https://*.reddit.com/", "http://*.redditstatic.com/" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "53.82.2",
+   "version": "54.83.0",
    "web_accessible_resources": [ "bpmotes.css", "emote-classes.css", "combiners-nsfw.css", "extracss-pure.css", "extracss-webkit.css", "gif-animotes.css" ]
 }
